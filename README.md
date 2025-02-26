@@ -59,7 +59,3 @@ Se espera que todas las pruebas se ejecuten con éxito, verificando la funcional
 
 ## **6. Implementación del Patrón Page Object Model (POM)**  
 Para mejorar la organización y mantenimiento del código, se ha aplicado el patrón *Page Object Model (POM)*, estructurando los elementos de la interfaz de usuario en clases independientes. Esto facilita la reutilización del código y mejora su legibilidad.  
-
----
-
-Este formato organiza la información de manera visualmente clara, con iconos y secciones bien diferenciadas. ¿Te gusta esta estructura o prefieres otro enfoque? 😊
